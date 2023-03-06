@@ -1,4 +1,4 @@
 baseURL = 'https://chriscatalfo.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'chriscatalfo.com'
 theme = 'ananke'
