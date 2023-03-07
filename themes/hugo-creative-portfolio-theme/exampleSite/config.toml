@@ -1,4 +1,4 @@
-baseurl = "https://chriscatalfo.com/"
+baseurl = "https://example.org/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Chris Catalfo"
+  copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
     "I am a creative illustrator and graphic designer with more than 10 years of experience.",
     "Originally from Toronto, currently based in London."
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "ccatalfo@gmail.com"
+  email = "you@yoursite.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -55,14 +55,14 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "ccatalfo"
-#  googleplus    = "full profile url in googleplus"
-  email         = "ccatalfo@gmail.com"
-  twitter       = "cfcatalfo"
-  linkedin      = "ccatalfo"
-#  stackoverflow = "foxnorth@gmail.com"
-#  instagram     = "full profile url in instagram"
-  github        = "ccatalfo"
-#  gitlab        = "full profile url in gitlab"
-#  youtube       = "full profile url in youtube"
-#  whatsapp      = "wa.me service link"
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  gitlab        = "full profile url in gitlab"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
