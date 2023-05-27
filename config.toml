@@ -1,5 +1,5 @@
 baseurl = "https://chriscatalfo.com/"
-title = "Creative portfolio"
+title = "Chris Catalfo's Website"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Personal website of Chris Catalfo."
-  copyright = "&copy;2016 Chris Catalfo"
+  copyright = "&copy;2023 Chris Catalfo"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a full stack web developer with over 15 years of experience.",
+    "With an increasing specialization in Machine Learning."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -51,7 +51,7 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
 
   [params.social]
